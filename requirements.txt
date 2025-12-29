@@ -1,0 +1,12 @@
+tensorflow
+keras
+numpy
+opencv-python-headless
+scikit-learn
+streamlit
+Pillow
+h5py
+kagglehub
+ultralytics
+YOLO
+gradio
